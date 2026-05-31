@@ -3,14 +3,10 @@ af Louise Berg Lund og Fie Tönshoff.
 
 Specialet blev afleveret den 31. maj 2026 ved Insititut for Statskundskab på Københavns Universitet.
 
-R-koden er delt i 5:
-Poweranalyse
-Databehandling
-Analyse
-Robusthedstests
-Deskriptiv statistik 
+R-koden er delt i 5 filer:
+Poweranalyse, databehandling, analyse, robusthedstests og deskriptiv statistik 
 
-Den rensede, annonymiserede datafil er uploade i form af conjoint_data.rds. 
+Den rensede, annonymiserede datafil er uploadet i form af conjoint_data.rds. 
 
 Den øvrige data er fra Danmarks Statistik:
 Danmarks Statistik (2026a). “Kommunegrupper, v1:2018-”. Danmarks Statistik. Tilgået den 14. april 2026: Kommunegrupper, v1:2018- - Danmarks Statistik 
