@@ -1,4 +1,5 @@
-Denne side indeholder R-kode og data til specialet "XX" af Louise Berg Lund og Fie Tönshoff (2026).
+Denne side indeholder R-kode og data til specialet "Woke eller ej?: Et eksperimentelt studie af hvordan identitetspolitik påvirker danske vælgeres opbakning til politikere"
+af Louise Berg Lund og Fie Tönshoff. 
 
 Specialet blev afleveret den 31. maj 2026 ved Insititut for Statskundskab på Københavns Universitet.
 
